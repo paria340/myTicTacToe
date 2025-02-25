@@ -1,0 +1,20 @@
+# Maven target directory (build output)
+target/
+
+# Maven specific logs and reports
+*.log
+*.out
+
+# Eclipse / IntelliJ / VS Code IDE settings
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper files (if you use them)
+.mvn/wrapper/maven-wrapper.jar
